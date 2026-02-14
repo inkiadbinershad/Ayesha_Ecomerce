@@ -1,0 +1,10 @@
+{
+  "home": "Home",
+  "about": "About Us",
+  "products": "Products",
+  "contact": "Contact",
+  "perishable": "Perishable",
+  "nonPerishable": "Non-Perishable",
+  "warehouse": "Warehouse",
+  "coldStorage": "Cold Storage"
+}
